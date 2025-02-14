@@ -1,0 +1,6 @@
+.env
+Dockerfile
+schedules.json
+.dockerignore
+.idea/
+__pycache__/
